@@ -1,4 +1,4 @@
-# Metadatos — Simulador de Transmisión Mecánica
+# Metadatos — Simulador Vehículo de Conducción
 
 Este archivo contiene la identificación y relación de los artefactos construidos para el caso de estudio del Simulador de Transmisión Mecánica.
 
