@@ -21,7 +21,7 @@ El propósito del portafolio es conservar de manera organizada la evidencia del 
 
 ## Presentación del portafolio
 
-🎥 **Video explicativo:** [Ver presentación del portafolio](PEGAR_AQUÍ_ENLACE_DEL_VIDEO)
+🎥 **Video explicativo:** [Ver presentación del portafolio](https://youtu.be/g5oNpYN5o00)
 
 En el video se presenta brevemente la estructura del repositorio, los casos de estudio trabajados durante el curso y los principales artefactos construidos en cada uno.
 
